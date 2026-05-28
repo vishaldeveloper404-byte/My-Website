@@ -23,7 +23,7 @@ A collection of web applications built using:
 
 ## Live Demo
 
-https://developer404-webapps.netlify.app
+https://vishalrv.netlify.app/
 
 ## GitHub Profile
 
