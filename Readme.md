@@ -1,6 +1,6 @@
 # Developer-404 Webapps
 
-A collection of frontend web applications built using:
+A collection of web applications built using:
 
 - HTML
 - CSS
